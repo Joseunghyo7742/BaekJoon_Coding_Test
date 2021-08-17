@@ -1,5 +1,6 @@
 #include<iostream>
 #include<algorithm>
+//sort ver
 using namespace std;
 
 int main(void) {
