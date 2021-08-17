@@ -1,4 +1,5 @@
 #include<iostream>
+//¼¿ÇÁ³Ñ¹ö
 using namespace std;
 int Dn(int n) {
 	int a = n / 10000;
