@@ -1,4 +1,5 @@
 #include<iostream>
+//신입사원
 using namespace std;
 int main(void) {
 	int t;
