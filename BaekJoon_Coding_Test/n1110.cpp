@@ -1,4 +1,4 @@
-//더하기 사이클
+//더하기 사이클~
 #include <iostream>
 using namespace std;
 int main(void) {
