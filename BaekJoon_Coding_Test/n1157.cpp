@@ -1,5 +1,6 @@
 #include<iostream>
 #include<string>
+//단어공부
 using namespace std;
 int main(void) {
 	string word;
