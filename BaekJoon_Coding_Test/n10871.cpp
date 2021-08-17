@@ -1,4 +1,4 @@
-//x보다 작은 수
+//x보다 작은 수.
 #include<iostream>
 using namespace std;
 int main(void) {
