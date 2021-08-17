@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//ЦђБе
 int main(void) {
     int n;
     cin >> n;
