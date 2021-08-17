@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm> 
 #include<vector>
+//ทฮวม
 using namespace std;
 int main(void) {
 	int n;
