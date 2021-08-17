@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//nÂï±â
 int main(void) {
     ios::sync_with_stdio(false); cout.tie(NULL);
     int N;
