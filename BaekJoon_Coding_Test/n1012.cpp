@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//dfs
 int m, n, k;
 int** farm;
 
