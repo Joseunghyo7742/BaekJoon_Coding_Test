@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//등차수열
 int main(void) {
 	int n;
 	int count=0;
