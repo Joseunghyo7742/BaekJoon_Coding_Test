@@ -1,4 +1,5 @@
 #include<iostream>
+//최소,최대
 using namespace std;
 int main(void) {
     int N;
