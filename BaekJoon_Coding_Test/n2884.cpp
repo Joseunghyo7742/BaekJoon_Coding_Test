@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//최소,최대
 int main(void) {
 	int H, M;
 	cin >> H >> M;
