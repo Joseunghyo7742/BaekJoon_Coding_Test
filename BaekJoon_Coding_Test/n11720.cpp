@@ -1,5 +1,6 @@
 #include<iostream>
 //#include<string>
+//숫자의합
 using namespace std;
 /*int main(void) {
 	string num;
