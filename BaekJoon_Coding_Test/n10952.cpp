@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//A+B - 5
 int main(void) {
     int A, B;
     while (1) {
