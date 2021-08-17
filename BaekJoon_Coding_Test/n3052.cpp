@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//³ª¸ÓÁö
 int main(void) {
     int n;
     int result = 0;
