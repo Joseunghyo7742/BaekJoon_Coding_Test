@@ -26,3 +26,4 @@ int main(void) {
 			cout << j + 1<<endl;
 	}
 }
+//¼¿ÇÁ³Ñ¹ö
