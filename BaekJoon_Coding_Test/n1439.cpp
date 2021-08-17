@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-
+//µÚÁý±â
 int main(void) {
 	string str;
 	cin >> str;
