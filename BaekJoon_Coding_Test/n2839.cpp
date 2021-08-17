@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//±×¸®µð
 int main(void) {
 
 		const int bag_1 = 3;
