@@ -138,41 +138,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n.4673.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n1012.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n1065.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n10818.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n10871.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n10951.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n10952.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n11021.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n11047.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n1110.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n11399.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n11399_sort사용.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n1157.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n11654.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n11720.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n13458.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n1439.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n1546.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n15552.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n1946.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2217.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2439.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2562.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2577.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2583 .cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2741.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2839.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2884.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n2941.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n3052.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n4344.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n5622.cpp" />
-    <ClCompile Include="..\..\codingTest\codingtest_Cpp\codingtest_Cpp\n8958.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
