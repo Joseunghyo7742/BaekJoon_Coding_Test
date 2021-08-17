@@ -1,5 +1,7 @@
 #include<iostream>
 #include<cmath>
+
+//평균은넘겠지
 using namespace std;
 int main(void) {
 	int c;
