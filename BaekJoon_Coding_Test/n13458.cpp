@@ -1,6 +1,7 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+//시험감독
 int main(void) {
     int n; //시험장 수
 	int* a; // 각 시험장 인원
