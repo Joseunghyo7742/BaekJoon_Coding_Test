@@ -8,7 +8,7 @@ int num = 0;
 int dx[4] = { 0,1,0,-1 };
 int dy[4] = { -1,0,1,0 };
 vector<int> result;
-
+//영역구하기
 void dfs(int y, int x) {
 	for (int i = 0; i < 4; i++) {
 		int new_m = y + dy[i];
