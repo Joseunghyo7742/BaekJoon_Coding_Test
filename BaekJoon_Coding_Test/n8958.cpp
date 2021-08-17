@@ -1,5 +1,6 @@
 #include<iostream>
 #include<string>
+//oxÄûÁî
 using namespace std;
 int main(void) {
     int n;
