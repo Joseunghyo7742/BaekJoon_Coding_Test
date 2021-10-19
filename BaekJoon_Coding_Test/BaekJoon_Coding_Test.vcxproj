@@ -24,6 +24,7 @@
     <ClCompile Include="n1065.cpp" />
     <ClCompile Include="n10773.cpp" />
     <ClCompile Include="n10818.cpp" />
+    <ClCompile Include="n10870.cpp" />
     <ClCompile Include="n10871.cpp" />
     <ClCompile Include="n10872.cpp" />
     <ClCompile Include="n10951.cpp" />
