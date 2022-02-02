@@ -19,47 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="n1012.cpp" />
-    <ClCompile Include="n10162.cpp" />
-    <ClCompile Include="n1065.cpp" />
-    <ClCompile Include="n10773.cpp" />
-    <ClCompile Include="n10818.cpp" />
-    <ClCompile Include="n10870.cpp" />
-    <ClCompile Include="n10871.cpp" />
-    <ClCompile Include="n10872.cpp" />
-    <ClCompile Include="n10951.cpp" />
-    <ClCompile Include="n10952.cpp" />
-    <ClCompile Include="n11021.cpp" />
-    <ClCompile Include="n11047.cpp" />
-    <ClCompile Include="n1110.cpp" />
-    <ClCompile Include="n11399.cpp" />
-    <ClCompile Include="n11399_sort사용.cpp" />
-    <ClCompile Include="n1157.cpp" />
-    <ClCompile Include="n11654.cpp" />
-    <ClCompile Include="n11720.cpp" />
-    <ClCompile Include="n1202.cpp" />
-    <ClCompile Include="n13305.cpp" />
-    <ClCompile Include="n13458.cpp" />
-    <ClCompile Include="n1439.cpp" />
-    <ClCompile Include="n1541.cpp" />
-    <ClCompile Include="n1546.cpp" />
-    <ClCompile Include="n15552.cpp" />
-    <ClCompile Include="n1946.cpp" />
-    <ClCompile Include="n2217.cpp" />
-    <ClCompile Include="n2231.cpp" />
-    <ClCompile Include="n2439.cpp" />
-    <ClCompile Include="n2562.cpp" />
-    <ClCompile Include="n2577.cpp" />
-    <ClCompile Include="n2583 .cpp" />
-    <ClCompile Include="n2741.cpp" />
-    <ClCompile Include="n2839.cpp" />
-    <ClCompile Include="n2884.cpp" />
-    <ClCompile Include="n3052.cpp" />
-    <ClCompile Include="n4344.cpp" />
-    <ClCompile Include="n4673.cpp" />
-    <ClCompile Include="n4796.cpp" />
-    <ClCompile Include="n5622.cpp" />
-    <ClCompile Include="n8958.cpp" />
+    <ClCompile Include="n7568.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
