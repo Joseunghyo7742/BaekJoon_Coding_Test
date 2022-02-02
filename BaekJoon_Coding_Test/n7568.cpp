@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(void) {
-	int n; //사람 수
+	int n; //사람 수.
 	cin >> n;
 	int* weight = new int[n]; //몸무게
 	int* height = new int[n];//키
