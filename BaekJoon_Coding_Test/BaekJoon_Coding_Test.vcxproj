@@ -40,6 +40,7 @@
     <ClCompile Include="n1202.cpp" />
     <ClCompile Include="n13305.cpp" />
     <ClCompile Include="n13458.cpp" />
+    <ClCompile Include="n1436.cpp" />
     <ClCompile Include="n1439.cpp" />
     <ClCompile Include="n1541.cpp" />
     <ClCompile Include="n1546.cpp" />
