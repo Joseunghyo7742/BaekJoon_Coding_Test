@@ -53,6 +53,7 @@
     <ClCompile Include="n2577.cpp" />
     <ClCompile Include="n2583 .cpp" />
     <ClCompile Include="n2741.cpp" />
+    <ClCompile Include="n2750-1.cpp" />
     <ClCompile Include="n2839.cpp" />
     <ClCompile Include="n2884.cpp" />
     <ClCompile Include="n3052.cpp" />
